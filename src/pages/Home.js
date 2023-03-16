@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import HomeInfo from "../components/HomeInfo";
+
 
 const Home = () => {
+
   return (
-    <div>Home</div>
-  )
+<HomeInfo/>
+  
+  );
+  
 }
 
 export default Home
